@@ -1,0 +1,39 @@
+
+h1{
+
+	color: lightgreen;
+	text-shadow: 2px 2px 5px black;
+}
+body{
+	
+	
+		font-family: cursive;
+		background-image: url("pic.jpg");
+		background-attachment: fixed;
+
+
+
+}
+h2{
+	color: black;
+	font-family: cursive;
+	text-shadow: 2px 2px 5px lightgray;
+}
+.c1{
+	color: darkgray;
+
+}
+.c2{
+	color: darkgray;
+}
+.c3{
+	color: darkgray;
+}
+.c4{
+	color: darkgray;
+}
+.container{
+		width: 80%;
+		margin: auto;
+
+}
